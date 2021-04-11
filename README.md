@@ -1,3 +1,3 @@
 # infinite-progress-bar-lwc
 
-Infinitive Progress Baw in LWC, based in HTML Implementation
+Infinitive Progress Bar in LWC, based in HTML Implementation
