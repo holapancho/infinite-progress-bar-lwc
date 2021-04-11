@@ -1,15 +1,26 @@
+.x-small{
+  height: 2px;
+}
+.small{
+  height: 4px;
+}
+.medium{
+  height: 8px;
+}
+.large{
+  height: 12px;
+} 
 .progress-bar, .progress-bar:before {
-  height: 3px;
   width: 100%;
   margin: 0;
 }
 .progress-bar {
-  background-color: #b3d4fc;
+  background-color: #dddbda;
   display: -webkit-flex;
   display: flex;
 }
 .progress-bar:before {
-  background-color: #3f51b5;
+  background-color: #5eb4ff;
   content: '';
   -webkit-animation: running-progress 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
   animation: running-progress 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
